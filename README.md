@@ -34,9 +34,8 @@ This module includes the `main.py` file which demonstrates:
 
 ---
 
-## ▶️ How to Run
-
-1. **Install dependencies**
+## ▶️ How to Run After Clonning
     ```bash
+    pip install uv
     uv sync
     uv run 01-Web-Server-Basics/main.py
