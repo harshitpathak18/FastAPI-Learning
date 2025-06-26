@@ -39,5 +39,5 @@ This is a simple web server demo with the following covered:
 ## ▶️ How to Run
 
 1. **Install dependencies**
-    uv sync
-    uv run 01-Web-Server-Basics
+    Step1: uv sync
+    Step2: uv run 01-Web-Server-Basics```
