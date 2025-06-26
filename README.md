@@ -20,9 +20,7 @@ Welcome to my FastAPI learning repository! This repo is designed to help me (and
 
 This folder contains the foundational concepts of creating a web API using FastAPI.
 
-### ✅ File: `main.py`
-
-This is a simple web server demo with the following covered:
+This module includes the `main.py` file which demonstrates:
 
 | Concept | Route | Description |
 |--------|-------|-------------|
@@ -39,5 +37,6 @@ This is a simple web server demo with the following covered:
 ## ▶️ How to Run
 
 1. **Install dependencies**
-    Step1: uv sync
-    Step2: uv run 01-Web-Server-Basics/main.py
+    ```bash
+    uv sync
+    uv run 01-Web-Server-Basics/main.py
