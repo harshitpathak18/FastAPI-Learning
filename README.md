@@ -40,4 +40,4 @@ This is a simple web server demo with the following covered:
 
 1. **Install dependencies**
     Step1: uv sync
-    Step2: uv run 01-Web-Server-Basics```
+    Step2: uv run 01-Web-Server-Basics/main.py
